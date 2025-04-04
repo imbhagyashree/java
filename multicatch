@@ -1,0 +1,26 @@
+class multicatch
+{
+    public static void main (string args[])
+    {
+        try
+        {
+           int a=args.Lrngth;
+           System.out.println("a="+a);
+           int b=42/a;
+           intc[]={1};
+           c[42]=99;
+        } 
+        catch (ArithmeticException e)
+        {
+            system.out.printn("division by zero" +e);
+        }
+        catch(array Indexoutofboundsexception e)
+        {
+            System.out.println("array index error"+e);
+        
+        } 
+        System.out.println("after try catch blocks");
+
+        }
+        }
+        

@@ -1,0 +1,19 @@
+class IfElse
+{
+    public static void main(string args[])
+    {
+        int i;
+        system.out.println("enter no 1 or2");
+        scanner in= new scanner(system.in);
+        i=in.nextInt();
+        if(i==l)
+        {
+            system.out.println("you are excellent");
+        }
+        else
+        {
+            system.out.println("help urself");
+        }
+        
+    }
+}

@@ -1,0 +1,20 @@
+
+{
+    public static void main(string args[])
+{
+    int a=10,b=20;
+    float c=12.5f;
+    double d=10.4;
+    system.out.println("a="+a);
+    system.out.println("a="+b);
+    system.out.println("c="+c);
+    system.out.println("d="+d);
+    system.out.println("a+b="+(a+b));
+    system.out.println("a-b="+(a-b));
+    system.out.println("c/a="+(c/a));
+    system.out.println("b%a="+(b%a));
+    system.out.println("c*d="+(c*d));
+
+}
+    
+    
